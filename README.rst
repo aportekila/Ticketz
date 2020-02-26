@@ -1,6 +1,7 @@
 A team project of Database Systems in ITU.
 Ticket Selling System.
----------------------
+Ticketz
+-------
 
 This repository contains a template project for the Database Systems course
 of the Istanbul Technical University Computer Engineering Department.
