@@ -5,7 +5,7 @@ Ticket Selling System.
 Ticketz - Database-Systems-ITU-Fall-18-19
 -----------------------------------------
 
-https://aportekila.github.io/Ticketz/
+https://aportekila.github.io/Ticketz-Database-Systems-ITU-Fall-18-19/
 
 **Authors**
 
